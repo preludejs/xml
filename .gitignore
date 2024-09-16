@@ -1,0 +1,8 @@
+.vscode/*.log
+cjs
+coverage
+mjs
+node_modules
+wip
+src/wip
+xmlconf
